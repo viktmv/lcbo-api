@@ -1,4 +1,5 @@
 .bundle
+.local
 .env
 .pry_history
 config/skylight.yml
